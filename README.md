@@ -1,8 +1,9 @@
 
+# 🥁 JavaScript Drum Kit 
+A small interactive drum kit built with HTML, CSS, and JavaScript.
+
 ## 🚀 Live Demo
+👉  https://drumkit-by-norin.netlify.app/
 
-👉 Try it here:  
-https://drumkit-by-norin.netlify.app/
-
-
-##Super Simple Drum Kit Following 30daysofJavascript by swapnilsparsh
+## Following 30DaysOfJavascript by Swapnil Srivastava.
+👉 https://github.com/swapnilsparsh/30DaysOfJavaScript
